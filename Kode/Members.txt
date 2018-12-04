@@ -1,0 +1,5 @@
+1 Per Per 4 true false 0
+2 Mads Olsen 12 true true 0
+3 ghjkl‘ ghjkl‘ 74 true true 1
+4 Peter peter 95 true false 0
+5 hg jkj 55 true true 0
