@@ -17,7 +17,7 @@ public class Menu{
    
    System.out.println("4:.. Register Results");
    
-   System.out.println("5:.. Results Owerview");
+   System.out.println("5:.. Results Overview");
    
    System.out.println("9:.. Logout");
    

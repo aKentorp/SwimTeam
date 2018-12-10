@@ -150,7 +150,7 @@ public class MemberFunctions{
          }
       }while(!in.equalsIgnoreCase("y") && !in.equalsIgnoreCase("n"));
       
-      System.out.println("Will your disipline be breast:.. Y/ N?");
+      System.out.println("Will your disipline be fly:.. Y/ N?");
       in = input.next();
       do{
          if(in.equalsIgnoreCase("y")){
